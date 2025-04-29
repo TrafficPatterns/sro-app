@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "678080828248",
+    "project_id": "sro-temp",
+    "storage_bucket": "sro-temp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678080828248:android:ce26312ab57880c1d68b2d",
+        "android_client_info": {
+          "package_name": "com.example.sro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "678080828248-6qb2gqmnkqmj4pl9i1dqu6rnn8fru2nf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA59BSFT68OKZwU7d-A7wYzBjmG8tI5MuU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "678080828248-6qb2gqmnkqmj4pl9i1dqu6rnn8fru2nf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "678080828248-hc2gfr5mvfh4jj6ftlu96uua96hhthfh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sro"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678080828248:android:7a2f2bbce908ea81d68b2d",
+        "android_client_info": {
+          "package_name": "org.schoolroutes.schoolroutes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "678080828248-6qb2gqmnkqmj4pl9i1dqu6rnn8fru2nf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA59BSFT68OKZwU7d-A7wYzBjmG8tI5MuU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "678080828248-6qb2gqmnkqmj4pl9i1dqu6rnn8fru2nf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "678080828248-hc2gfr5mvfh4jj6ftlu96uua96hhthfh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sro"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

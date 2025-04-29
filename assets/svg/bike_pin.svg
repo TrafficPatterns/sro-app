@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32.939" height="38.055" viewBox="0 0 32.939 38.055">
+  <g id="bike_pin" transform="translate(-223.53 -183.215)">
+    <path id="Path_35438" data-name="Path 35438" d="M32.116,31.116l-8.735,8.735a4.117,4.117,0,0,1-5.82,0L8.824,31.116a16.47,16.47,0,1,1,23.292,0Z" transform="translate(219.53 180.215)" fill="#67b259"/>
+    <g id="Group_15161" data-name="Group 15161" transform="translate(228 186)">
+      <path id="Path_35436" data-name="Path 35436" d="M0,0H24V24H0Z" fill="none"/>
+      <circle id="Ellipse_17821" data-name="Ellipse 17821" cx="3" cy="3" r="3" transform="translate(2 15)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <circle id="Ellipse_17822" data-name="Ellipse 17822" cx="3" cy="3" r="3" transform="translate(16 15)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Path_35437" data-name="Path 35437" d="M12,19V15L9,12l5-4,2,3h3" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <circle id="Ellipse_17823" data-name="Ellipse 17823" cx="1" cy="1" r="1" transform="translate(16 4)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    </g>
+  </g>
+</svg>

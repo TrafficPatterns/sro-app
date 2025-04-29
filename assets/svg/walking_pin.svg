@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32.939" height="38.055" viewBox="0 0 32.939 38.055">
+  <g id="walking_pin" transform="translate(-223.53 -183.215)">
+    <path id="Path_35438" data-name="Path 35438" d="M32.116,31.116l-8.735,8.735a4.117,4.117,0,0,1-5.82,0L8.824,31.116a16.47,16.47,0,1,1,23.292,0Z" transform="translate(219.53 180.215)" fill="#edc12e"/>
+    <g id="walking" transform="translate(228.47 186.215)">
+      <path id="Path_35498" data-name="Path 35498" d="M0,0H24V24H0Z" fill="none"/>
+      <circle id="Ellipse_17833" data-name="Ellipse 17833" cx="2" cy="2" r="2" transform="translate(5 3)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Path_35499" data-name="Path 35499" d="M5,22V17L4,16V12a1,1,0,0,1,1-1H9a1,1,0,0,1,1,1v4L9,17v5" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <circle id="Ellipse_17834" data-name="Ellipse 17834" cx="2" cy="2" r="2" transform="translate(15 3)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Path_35500" data-name="Path 35500" d="M15,22V18H13l2-6a1,1,0,0,1,1-1h2a1,1,0,0,1,1,1l2,6H19v4" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    </g>
+  </g>
+</svg>

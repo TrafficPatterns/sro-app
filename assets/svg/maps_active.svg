@@ -1,0 +1,5 @@
+<svg id="maps_active" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="Path_35417" data-name="Path 35417" d="M0,0H24V24H0Z" fill="none"/>
+  <circle id="Ellipse_17816" data-name="Ellipse 17816" cx="3" cy="3" r="3" transform="translate(9 8)" fill="none" stroke="#164b9b" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <path id="Path_35418" data-name="Path 35418" d="M17.657,16.657,13.414,20.9a2,2,0,0,1-2.827,0L6.343,16.657a8,8,0,1,1,11.314,0Z" fill="none" stroke="#164b9b" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+</svg>

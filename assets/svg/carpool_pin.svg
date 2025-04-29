@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32.939" height="38.055" viewBox="0 0 32.939 38.055">
+  <g id="carpool_pin" transform="translate(-596.066 -384.945)">
+    <path id="Path_35438" data-name="Path 35438" d="M32.116,31.116l-8.735,8.735a4.117,4.117,0,0,1-5.82,0L8.824,31.116a16.47,16.47,0,1,1,23.292,0Z" transform="translate(592.066 381.945)" fill="#f26522"/>
+    <g id="carpool_pin-2" data-name="carpool_pin" transform="translate(601.005 387.73)">
+      <path id="Path_35439" data-name="Path 35439" d="M0,0H24V24H0Z" fill="none"/>
+      <circle id="Ellipse_17824" data-name="Ellipse 17824" cx="2" cy="2" r="2" transform="translate(5 15)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <circle id="Ellipse_17825" data-name="Ellipse 17825" cx="2" cy="2" r="2" transform="translate(15 15)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Path_35440" data-name="Path 35440" d="M5,17H3V11L5,6h9l4,5h1a2,2,0,0,1,2,2v4H19m-4,0H9M3,11H18m-6,0V6" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    </g>
+  </g>
+</svg>
